@@ -1,0 +1,13 @@
+results
+scripts/run_script_*
+data/booksum/*.pt
+data/booksum/*.jsonl.zst
+data/longmemeval/*.json
+data/longmemeval/*.pt
+data/locomo/*.pt
+data/realtalk/*.pt
+data/layer_scores/*.pt
+data/layer_scores/*.json
+data/__pycache__/*
+**/__pycache__/
+kvzip.egg-info
